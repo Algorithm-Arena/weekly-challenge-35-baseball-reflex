@@ -1,6 +1,6 @@
 # Weekly Challenge #35 - Baseball Reflex
 
-**For this challenge, you need to implement a program that tests the reflexes of the user.** I was watching a baseball game and was really impressed by how little time there was for the batter to swing between the time the ball leaves the hand of the pitcher. Trying to reproduce this in a virtual setting can be an interesting challenge!
+**For this challenge, you need to implement a program that tests the reflexes of the user.** As I was watching a baseball game, I was really impressed by how little time there was for the batter to swing before the time the ball leaves the hand of the pitcher. Your goal for this challenge is to test user's reflexes in a virtual setting!
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/a3a384bc-d593-4dd8-9d59-6784ac53bd59">
 
@@ -17,7 +17,7 @@
 * There are no restrictions in terms of tech stack.
 
 ### How to submit a solution:
-* Deadline to submit is Sunday September 1st evening at Midnight PST (US West Coast).
+* Deadline to submit is Sunday September 30th evening at Midnight PST (US West Coast).
 * Open an issue on this repo titled "Submission - &lt;Name of your submission&gt;"
 * It must contain a short video showing the submission in action
 * It must contain an explanation on how to try it
